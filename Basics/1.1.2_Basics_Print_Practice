@@ -1,0 +1,25 @@
+import Foundation
+
+//The following print statements will make various patterns
+
+print("Hello World")
+print(" ")
+print("p")
+print("  p")
+print("    p")
+print("  p")
+print("p")
+print(" ")
+print("x   x")
+print("  x")
+print("x   x")
+
+//The next three lines show that numbers can be printed.
+print(99)
+print(55)
+print(87)
+
+//Lines with '//' proceeding them are not read.
+//The following two lines of code will cause an error if you remove the '//'
+//print(0
+//Print(102)
